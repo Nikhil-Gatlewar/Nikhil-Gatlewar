@@ -1,84 +1,26 @@
-<!-- README.md -->
-<h1 align="center">🚀 Hey, I'm Nikhil Gatlewar</h1>
-<h3 align="center">B.Tech in Electronics and Telecommunication | Experienced in C, C++, Java, Python | Spring Boot Developer</h3>
+<h1 align="center">Hola 👋, I'm Nikhil Gatlewar </h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurav007865&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
+<img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan-thakare&label=Profile%20views&color=0e75b6&style=flat" alt="narayan-thakare" /> </p>
+
+- 🔭 I’m currently working on **The Java Android App**
+
+- 🌱 I’m currently working on  **Android and Spring Boot**
+
+- 💬 Ask me about **C, C++, Core Java, HTML5, CSS, J2EE, PHP, XAMPP**
+
+- 📫 How to reach me **nikhil.gatlewar@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nikhil-gatlewar-7b609414b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-gatlewar-7b609414b/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/gatlewar/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="narayan_thackeray" height="30" width="40" /></a>
 </p>
 
-<hr>
-
-<!-- About Me -->
-<h2>🧠 About Me</h2>
-<ul>
-  <li>💻 I'm a developer experienced in <strong>C, C++, Java, Python</strong> and <strong>Spring Boot</strong></li>
-  <li>🔐 Interested in Backend Development, System Design, and Cybersecurity</li>
-  <li>📚 Always exploring new technologies and improving my skills</li>
-  <li>📷 Connect with me on Instagram: <a href="https://www.instagram.com/gatlewar/" target="<!-- README.md -->
-<h1 align="center">🚀 Hey, I'm Nikhil Gatlewar</h1>
-<h3 align="center">B.Tech in Electronics and Telecommunication | Experienced in C, C++, Java, Python | Spring Boot Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurav007865&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
-<hr>
-
-
-<!-- Languages & Tools -->
-<h2>🛠 Languages & Tools</h2>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
-
-<hr>
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav007865&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav007865&theme=dark&hide_border=true" />
-</p>
-
-<hr>
-
-<!-- Footer Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hello+World+🌍;B.Tech+Engineer+with+Code+Passion+💡;Follow+@gatlewar+on+Instagram+📷;Keep+Learning%2C+Keep+Building+🚀" />
-</p>
-">@gatlewar</a></li>
-</ul>
-
-<hr>
-
-<!-- Languages & Tools -->
-<h2>🛠 Languages & Tools</h2>
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-</p>
-
-<hr>
-
-<!-- GitHub Stats -->
-<h2>📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav007865&show_icons=true&theme=dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav007865&theme=dark&hide_border=true" />
-</p>
-
-<hr>
-
-<!-- Footer Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Hello+World+🌍;B.Tech+Engineer+with+Code+Passion+💡;Follow+@gatlewar+on+Instagram+📷;Keep+Learning%2C+Keep+Building+🚀" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">  </p>
