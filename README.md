@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Nikhil Gatlewar </h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="500px" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+<img align="right" alt="coding" width="500px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemk2MWgzeW13d3F0dG1idDNoYXZoaWJraDNnYTBzMnlxb3F4b3U1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narayan-thakare&label=Profile%20views&color=0e75b6&style=flat" alt="narayan-thakare" /> </p>
