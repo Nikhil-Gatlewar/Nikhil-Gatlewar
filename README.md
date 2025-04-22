@@ -14,7 +14,7 @@
   <li>💻 I'm a developer experienced in <strong>C, C++, Java, Python</strong> and <strong>Spring Boot</strong></li>
   <li>🔐 Interested in Backend Development, System Design, and Cybersecurity</li>
   <li>📚 Always exploring new technologies and improving my skills</li>
-  <li>📷 Connect with me on Instagram: <a href="https://www.instagram.com/gatlewar?igsh=MXZ2a21mNWNhN3c3bQ==" target="<!-- README.md -->
+  <li>📷 Connect with me on Instagram: <a href="https://www.instagram.com/gatlewar/" target="<!-- README.md -->
 <h1 align="center">🚀 Hey, I'm Nikhil Gatlewar</h1>
 <h3 align="center">B.Tech in Electronics and Telecommunication | Experienced in C, C++, Java, Python | Spring Boot Developer</h3>
 
@@ -24,16 +24,6 @@
 
 <hr>
 
-<!-- About Me -->
-<h2>🧠 About Me</h2>
-<ul>
-  <li>💻 I'm a developer experienced in <strong>C, C++, Java, Python</strong> and <strong>Spring Boot</strong></li>
-  <li>🔐 Interested in Backend Development, System Design, and Cybersecurity</li>
-  <li>📚 Always exploring new technologies and improving my skills</li>
-  <li>📷 Connect with me on Instagram: <a href="https://www.instagram.com/gatlewar/" target="_blank">@gatlewar</a></li>
-</ul>
-
-<hr>
 
 <!-- Languages & Tools -->
 <h2>🛠 Languages & Tools</h2>
