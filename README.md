@@ -7,7 +7,7 @@
 
   <section>
     <h2>About Me</h2>
-    <p>Hello! I am a passionate software developer with a strong foundation in electronics and telecommunications. I have experience in developing applications using various programming languages and frameworks. I love building scalable and maintainable systems.</p>
+    <p>Hello! I am a passionate software developer with a strong foundation in Electronics and Telecommunication. I have experience in developing applications using various programming languages and frameworks. I love building scalable and maintainable systems.</p>
   </section>
 
   <section>
